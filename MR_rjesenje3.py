@@ -407,7 +407,7 @@ plt.show()
 # PART 5: Creating selected model 
 knn_final = KNeighborsClassifier()
 knn_final.set_params(**GSCV_best_params['knn'])
-knn.fit(X_tv_scaled,y_tv)
+knn_final.fit(X_tv_scaled,y_tv)
 joblib.dump(knn_final, 'final_model.pkl')
 
     
