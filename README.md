@@ -1,5 +1,9 @@
 # ListLabs_zadatak3
 
+BONUS: Postavljena je na web i aplikacija za interaktvnu vizualizaciju 3. zadatka.
+Trenutno je nazalost nedovrsena i dosta sporija nego na lokalnom racunalu
+https://ll-ml-interactive.onrender.com/
+
 Dijelovi koda.
 
 1. Izabir startnog modela. Izabrao sam K-nearest neighbors te testirao accuracy sa zadanim postavkama.
