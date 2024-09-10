@@ -39,3 +39,10 @@ Dijelovi koda.
    ![Figure8_decision_maps_2features](https://github.com/user-attachments/assets/97782026-d264-4e00-9b73-5bd1e57fc7cc)
 
 5. Na kraju sam prema rezultatim odabrao K-nearest neighbors kao najbolji model te ga spremio pomocu joblib-a u pkl format
+
+
+
+
+BONUS: Postavljena je na web i aplikacija za interaktvnu vizualizaciju 3. zadatka.
+Trenutno je nazalost nedovrsena i dosta sporija nego na lokalnom racunalu
+https://ll-ml-interactive.onrender.com/
